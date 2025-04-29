@@ -126,9 +126,9 @@ JavaScript to interact with input fields, buttons, and display elements
 dynamically. 
 5. Flow diagram: 
 6. Revision Tracking on GitHub: 
-Repository Name:  Deadlock Prevention and Recovery  
-Repository Link: https://github.com/Aditya1787/Deadlock-prevention
-and-recovery- 
+Repository Name:  Deadlock Prevention and Recovery Toolkit
+Repository Link: https://github.com/ravi-raj2327/Deadlock-Prevention-and-Recovery-Toolkit-
+Deployed Link:- https://aditya1787.github.io/Deadlock-prevention-and-recovery-/
 7. Conclusion and Future Scope: 
 The Deadlock Prevention and Recovery Toolkit successfully demonstrates 
 key operating system concepts by providing an interactive environment to 
